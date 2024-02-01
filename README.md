@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github-profiles-varjonathanr.netlify.app/">
+    <a href="https://devchallenges.io/solution/8922">
       Solution
     </a>
     <span> | </span>
