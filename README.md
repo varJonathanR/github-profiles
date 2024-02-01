@@ -1,7 +1,9 @@
-<h1 align="center"> 🌦️ GitHub Profiles</h1>
+<h1 align="center"> 👤 GitHub Profiles</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+
+   [![Netlify Status](https://api.netlify.com/api/v1/badges/a8f99cb8-f91b-4254-9f9c-755f2118f786/deploy-status)](https://app.netlify.com/sites/github-profiles-varjonathanr/deploys)
 </div>
 
 <div align="center">
@@ -10,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github-profiles-varjonathanr.netlify.app/">
       Solution
     </a>
     <span> | </span>
